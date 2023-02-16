@@ -1,0 +1,15 @@
+.grid-box{
+    position: absolute;
+    /*background-color: aliceblue;*/
+    top: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    z-index: 100;
+    width: 1930px;
+    height: 1176px;
+}
+.squarer{
+    width: 400px;
+    height: 300px;
+    background: yellow;
+}
